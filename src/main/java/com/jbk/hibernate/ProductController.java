@@ -36,6 +36,7 @@ public class ProductController {
 			System.out.println("press 17 to apply 'less than equal to' constraint to the named property");
 			System.out.println("press 18 equal id");
 			System.out.println("press 19 to show not null");
+			System.out.println("press 20 to show not null");
 			int choice = scanner.nextInt();
 
 			switch (choice) {
